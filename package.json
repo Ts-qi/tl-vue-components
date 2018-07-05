@@ -1,0 +1,26 @@
+{
+  "name": "tl-vue-components",
+  "version": "1.0.0",
+  "description": "common components record normal work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tangsunline/tl-vue-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tangsunline/tl-vue-components/issues"
+  },
+  "homepage": "https://github.com/Tangsunline/tl-vue-components#readme",
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.15.1"
+  }
+}
