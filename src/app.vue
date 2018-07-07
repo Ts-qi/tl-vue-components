@@ -1,12 +1,14 @@
 <template>
    <div id="app">
-       好喜欢你啊  ；李亚南妹妹
+       <tl-header/>
+       
    </div>
 </template>
 <script>
+    import tlHeader from './pages/header.vue'
    export default {
       components : {
-
+          tlHeader
       },
       data() {
          return {

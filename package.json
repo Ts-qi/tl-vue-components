@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tangsunline/vue-ssr-todo.git"
+    "url": "git+https://github.com/Tangsunline/tl-vue-components.git"
   },
   "author": "Ts",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tangsunline/vue-ssr-todo/issues"
+    "url": "https://github.com/Tangsunline/tl-vue-components/issues"
   },
-  "homepage": "https://github.com/Tangsunline/vue-ssr-todo#readme",
+  "homepage": "https://github.com/Tangsunline/tl-vue-components#readme",
   "dependencies": {
     "autoprefixer": "^8.6.0",
     "babel-core": "^6.26.3",
