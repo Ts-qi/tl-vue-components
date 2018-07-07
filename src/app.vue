@@ -1,6 +1,6 @@
 <template>
    <div id="app">
-       是的了 ； 无所谓
+       好喜欢你啊  ；李亚南妹妹
    </div>
 </template>
 <script>
